@@ -4,7 +4,7 @@ Inspired by [Quizizz loading screen](https://images.app.goo.gl/qATYrNkNiWHHPBQY9
 Made with Processing.
 
 ## Demo
-![Demo GIF](animation.gif)
+![Demo GIF](demo.gif)
 
 ## Usage
 1. Clone repository
