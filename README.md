@@ -1,5 +1,6 @@
 # MovingCircles
 Possibly hypnotic animation of smaller circles spinning within bigger circles.  
+Inspired by [Quizizz loading screen](https://images.app.goo.gl/qATYrNkNiWHHPBQY9).  
 Made with Processing.
 
 ## Demo
